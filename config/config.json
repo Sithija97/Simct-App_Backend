@@ -1,0 +1,8 @@
+{
+    "development": {
+        "port" : 3000,
+        "MONGODB_URI" : "mongodb://localhost:27017/Simct",
+        "JWT_SECRET": "SECRET#123",
+        "JWT_EXP": "7d"
+    }
+}
